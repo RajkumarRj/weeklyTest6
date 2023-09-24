@@ -3,12 +3,13 @@ body {
     margin: 0px;
     padding: 0px;
     background: #414141;
-    min-width: 926px;
+    width: 1200px;
+    margin: 0 auto;
 }
 
 #topContentWrap {
     width: 100%;
-    margin: 0px;
+    margin: 0px auto;
     padding: 0px;
     float: left;
     background: #f9f7db url(bodyBg.jpg) repeat-x
